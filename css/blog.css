@@ -1,0 +1,186 @@
+/*
+Template Name: E Learning
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************blog****************/
+.center_blog{
+margin-top:76px; 
+padding-top:80px;
+padding-bottom:80px;
+ }
+#blog{
+padding-top:50px;
+padding-bottom:50px;
+background: #f5d76e3d;
+ }
+.blog_1l1{
+margin-top:30px;
+border-bottom:1px solid #eee;
+padding-bottom:30px; 
+ }
+.product_1_last{
+margin-top:30px; 
+ }
+.product_1_last ul li{
+ display:inline-block;
+ margin: 0 2px;
+ width:45px;
+ height:45px;
+ line-height:45px;
+ background:#fff;
+ text-align:center;
+ border-radius:3px;
+ }
+.product_1_last ul li a{
+display:block;
+color: #2f4e71;
+ }
+.product_1_last ul li:hover{
+ background: #f5d76e;
+ }
+.product_1_last ul li:hover a{
+ color: #fff;
+ }
+.act{
+  background:#f5d76e!important;
+ }
+.act a{
+ color: #fff!important;
+ }
+.blog_1r1 .input-group{
+margin-top:20px;
+border:1px solid #ddd; 
+ }
+.blog_1r1 .form-control{
+height:50px;
+border:none;
+box-shadow:none; 
+background:none;
+font-size:16px;
+ }
+.blog_1r1 .btn{
+background:none;
+border:none;
+box-shadow:none; 
+color:#666;
+font-size:16px;
+ }
+.blog_1r1{
+margin-top:30px; 
+ }
+.blog_1r1 h6{
+border-bottom:1px solid #ddd;
+padding-bottom:15px; 
+ }
+.blog_1r1 p{
+border-bottom:1px solid #ddd;
+padding-bottom:15px; 
+ }
+ 
+.blog_detail_l2{
+padding:30px 15px;
+box-shadow: 0 0 5px rgba(0,0,0,0.6);
+margin-top:30px; 
+ }
+.blog_detail_l2i1 h4 a{
+font-size:16px; 
+ }
+.blog_detail_l2i1{
+margin-top:30px; 
+border-bottom:1px solid #eee;
+padding-bottom:30px; 
+ }
+.blog_1ln .form-control{
+width:70%; 
+ }
+.blog_1ln .form_1{
+width:100%; 
+ }
+.blog_1ln{
+padding:30px 15px;
+box-shadow: 0 0 5px rgba(0,0,0,0.6);
+margin-top:30px; 
+ }
+ 
+.blog_1l1 blockquote {
+    margin-bottom: 0;
+    border-color: #2f4e71;
+    margin-top: 20px;
+    background: #fff;
+    padding: 30px;
+}
+.blog_1l1 .nav_n1 li{
+display:inline-block;
+margin-right:10px;
+ }
+.blog_1l1 .nav_n1 li a{
+padding: 6px 15px 10px 15px;
+background: #fff;
+border-radius:30px;
+display:block;
+font-size:16px;
+ }
+.blog_1l1 .nav_n1 li a:hover{
+background:#f5d76e;
+ }
+
+.blog_1l1 .nav_n {
+list-style:disc;
+margin-left:20px;
+margin-right:20px;
+ }
+.blog_1l1 .nav_n li{
+margin-top:5px;
+ }
+/*********************blog_end****************/
+
+
+
+@media screen and (max-width : 767px){
+.center_blog{
+margin-top:0; 
+text-align:center;
+ }
+#blog{
+text-align:center; 
+ }
+.product_1_last ul li{
+margin-bottom:8px;
+ }
+.blog_1r{
+margin-top:20px; 
+ }
+.blog_detail_l2i1 .pull-right {
+    float: none!important;
+}
+.blog_detail_l2i1 img{
+margin-bottom:15px;
+ }
+.blog_1l1 .nav_n {
+list-style:none;
+margin-left:0;
+margin-right:0;
+ }
+.blog_1l1 .nav_n1 li {
+margin-top:5px;
+margin-left:5px;
+margin-right:5px;
+ }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+
+ }
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
+@media (min-width:1201px) and (max-width:1350px) {
+
+ }
+
+
+
+
